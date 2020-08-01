@@ -1,0 +1,18 @@
+.header {
+  color: red;
+}
+
+body {
+  font-size: 16px;
+  color: #000000;
+  background: #000000;
+}
+
+body .text {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+
+
